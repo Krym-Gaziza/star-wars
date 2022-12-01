@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Hoth",
+    "rotation_period": "23",
+    "orbital_period": "549",
+    "diameter": "7200",
+    "climate": "frozen",
+    "gravity": "1.1 standard",
+    "terrain": "tundra, ice caves, mountain ranges",
+    "surface_water": "100",
+    "population": "unknown",
+    "this": "Hoth is the sixth planet in the remote system of the same name, and was the site of the Rebel Alliance's Echo Base. It is a world of snow and ice, surrounded by numerous moons, and home to deadly creatures like the wampa.",
+    "url": "https://lumiere-a.akamaihd.net/v1/images/Hoth_d074d307.jpeg?region=0%2C0%2C1200%2C675"
+  },
+  {
+    "name": "Alderaan",
+    "rotation_period": "24",
+    "terrain": "grasslands, mountains",
+    "surface_water": "40",
+    "population": "2000000000",
+    "created": "2014-12-10T11:35:48.479000Z",
+    "edited": "2014-12-20T20:58:18.420000Z",
+    "this": "If ever one needed an example of the irredeemable evil of the Empire, look no further than the shattered remains of Alderaan. A peaceful world of lush valleys and snow-capped mountains, Alderaan was once regarded for its natural beauty, its tranquility, and the sophistication of its arts and culture. Before the Imperial uprising, Alderaan was represented in the waning days of the Republic by such venerated politicians as Bail Organa. In fact, Alderaan was one of the earliest supporters of the Alliance to Restore the Republic, though its officials prudently kept all ties to the Rebellion secret. Despite such discretion, the Empire knew it to be a haven of rebel activity, making it a target of reprisal as soon as the Death Star was operational.",
+    "url": "https://lumiere-a.akamaihd.net/v1/images/alderaan-main_f5b676cf.jpeg?region=0%2C0%2C1280%2C720&width=1200"
+  },
+  {
+    "name": "Yavin IV",
+    "rotation_period": "24",
+    "orbital_period": "4818",
+    "diameter": "10200",
+    "climate": "temperate, tropical",
+    "gravity": "1 standard",
+    "terrain": "jungle, rainforests",
+    "surface_water": "8",
+    "population": "1000",
+    "created": "2014-12-10T11:37:19.144000Z",
+    "edited": "2014-12-20T20:58:18.421000Z",
+    "this": "One of a number of moons orbiting the gas giant Yavin in the galaxy’s Outer Rim, Yavin 4 is a steamy world covered in jungle and forest. It was the location of the principal rebel base early in the Galactic Civil War, and the site from which the Rebellion launched the attack that destroyed the first Death Star -- a confrontation known thereafter as the Battle of Yavin.",
+    "url": "https://lumiere-a.akamaihd.net/v1/images/databank_yavin4_01_169_b6945e20.jpeg?region=0%2C0%2C1560%2C878&width=1200"
+  }
+]
